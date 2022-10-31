@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/mern-bubble-social-app/static/css/main.4b2dd9bf.css",
+    "main.js": "/mern-bubble-social-app/static/js/main.0521f3c9.js",
+    "index.html": "/mern-bubble-social-app/index.html",
+    "main.4b2dd9bf.css.map": "/mern-bubble-social-app/static/css/main.4b2dd9bf.css.map",
+    "main.0521f3c9.js.map": "/mern-bubble-social-app/static/js/main.0521f3c9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4b2dd9bf.css",
+    "static/js/main.0521f3c9.js"
+  ]
+}
